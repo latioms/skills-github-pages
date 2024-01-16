@@ -28,7 +28,7 @@ Hi, I'm Belrick Stephane, also known as "Latioms," a creative web and app develo
 
 ### Contact
 
-- Email: [your.email@example.com](mailto:latioms@gmail.com)
+- Email: [latioms@gmail.com](mailto:latioms@gmail.com)
 - LinkedIn: [Belrick Stephane](https://www.linkedin.com/in/belrick-stephane/)
 - GitHub: [Latioms](https://github.com/latioms)
 
